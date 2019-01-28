@@ -8,7 +8,7 @@ We want to predict a category for the occupational field. For example, we want t
 
 ## Example Data
 
-There is an example [Dataset](jobs.json). The datastructure is currently simply defined in http://scrapy-docs.yawik.org/build/html/guidelines/format.html
+There are example Datasets in [example-data](example-data/). The datastructure is currently simply defined in http://scrapy-docs.yawik.org/build/html/guidelines/format.html
 
 ## Contribute
 
