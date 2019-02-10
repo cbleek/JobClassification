@@ -1,6 +1,13 @@
 ### Data Collection
-First we need the job ads for classification which we can get from Talent API(paid). There is a free dataset available on Kaggle [dataset](https://www.kaggle.com/madhab/jobposts) which can be used.
-There are two main classification techniques which can be used for classify ads.
+First we need the job ads for classification which we can get from Talent API(paid). There is a free dataset available on Kaggle 
+[Online Job Postings](https://www.kaggle.com/madhab/jobposts) which can be used.
+[Indeed Internships](https://download.data.world/file_download/rdowns26/marketing-internship-postings/internships_on_indeed.csv)
+[Internships](https://download.data.world/file_download/rdowns26/marketing-internship-postings/internships_not_on_indeed.csv)
+[NYC JOBS](https://data.cityofnewyork.us/City-Government/NYC-Jobs/kpav-sd4t)
+
+### Classification Algorithms
+Two main categories of classification algorithms used in AI are SVM under machine learning and LSTM or BLSTM under AI.
+We can use two main classification techniques which can be used for classify ads.
 ```text
 1 - Using classic algorithms like Random Forests or SVM
 2 - Using Recurrent Neural Networks such as LSTM, BLSTM
